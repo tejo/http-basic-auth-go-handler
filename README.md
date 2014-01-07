@@ -1,1 +1,1 @@
-quick and dirty go basic auth middleware handler example
+quick and dirty basic auth handler example
