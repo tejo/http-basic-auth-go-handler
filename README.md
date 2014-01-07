@@ -1,1 +1,1 @@
-quick and dirty basic auth handler example
+quick and dirty http basic auth example
